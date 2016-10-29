@@ -14,6 +14,11 @@
     <module>app</module>
     <module>app-it</module>
   </modules>
+<scm>
+		<url>https://github.com/zameddy/Jacoco.git</url>
+		<connection>scm:git:file://F:/FORMATIONS/formationIntegrationContinue/tps/sonar-examples-master/projects/languages/java/code-coverage/combined ut-it/combined-ut-it-multimodule-maven-jacoco</connection>
+		<developerConnection>scm:git:file://F:/FORMATIONS/formationIntegrationContinue/tps/sonar-examples-master/projects/languages/java/code-coverage/combined ut-it/combined-ut-it-multimodule-maven-jacoco</developerConnection>
+</scm>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
